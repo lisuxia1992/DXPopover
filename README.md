@@ -4,6 +4,10 @@
 [![License](https://img.shields.io/cocoapods/l/DXPopover.svg?style=flat)](http://cocoapods.org/pods/DXPopover)
 [![Platform](https://img.shields.io/cocoapods/p/DXPopover.svg?style=flat)](http://cocoapods.org/pods/DXPopover)
 
+
+类似微信右上角的➕点击展示列表效果
+
+
 A Popover mimic Facebook app popover using UIKit.
 
 The concept of this popover is very simple: add your contentView in a popover, then show the popover in the container view.
